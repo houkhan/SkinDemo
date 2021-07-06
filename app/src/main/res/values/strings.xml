@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestSkin</string>
+    <string name="test_string">我是资源包的文字</string>
+</resources>
